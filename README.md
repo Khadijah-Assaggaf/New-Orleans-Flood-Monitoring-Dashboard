@@ -21,6 +21,7 @@ An interactive web dashboard developed as part of the Esri MOOC program ("Make a
 
 ### Dashboard Preview
 ![Dashboard Preview]
-## Author<img width="2000" height="1008" alt="New-Orleans-Flood-Dashboard-Preview" src="https://github.com/user-attachments/assets/351c48e9-a971-4090-8a4e-76b9fcae5eb9" />
+<img width="2000" height="1008" alt="New-Orleans-Flood-Dashboard-Preview" src="https://github.com/user-attachments/assets/39d049f1-e6e8-415a-b67b-2e33869cbb58" />
 
+## Author
 Khadijah Assaggaf — GIS Specialist
