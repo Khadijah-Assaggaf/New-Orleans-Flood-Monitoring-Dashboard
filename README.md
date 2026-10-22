@@ -25,4 +25,5 @@ An interactive web dashboard developed as part of the Esri MOOC program ("Make a
 
 ## Author
 Khadijah Assaggaf — GIS Specialist
+
 Esri MOOC: Make an Impact with Modern Geo Apps
